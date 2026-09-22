@@ -1,0 +1,77 @@
+Planet #	Name	Telescope	Unlock Price	Distance	Ore 1	Ore 2	Ore 3	Ore 1 Yield	Ore 2 Yield	Ore 3 Yield
+1	Balor	0	1.00E+02	6.60	C			100%	0%	0%
+2	Drasta	0	2.00E+02	6.70	C	Fe		80%	20%	0%
+3	Anadius	0	5.00E+02	6.85	C	Fe		50%	50%	0%
+4	Dholen	0	1.25E+03	7.00	Fe	Pb		80%	20%	0%
+5	Verr	1	5.00E+03	7.15	Pb	Fe	C	50%	30%	20%
+6	Newton	1	9.00E+03	7.30	Pb			100%	0%	0%
+7	Widow	1	1.50E+04	7.45	Fe	C	Si	40%	40%	20%
+8	Acheron	2	2.50E+04	7.60	Si	C		60%	40%	0%
+9	Yangtze	2	4.00E+04	7.75	Si	Al		80%	20%	0%
+10	Solveig	2	7.50E+04	7.90	Al	Si	Pb	50%	30%	20%
+11	Imir	3	1.50E+05	8.05	Al			100%	0%	0%
+12	Relic	3	2.50E+05	8.20	Pb	Si	Ag	45%	35%	20%
+13	Nith	3	4.00E+05	8.35	Ag	Al		80%	20%	0%
+14	Batalla	4	8.00E+05	8.50	C	Fe	Au	40%	40%	20%
+15	Micah	4	1.50E+06	8.65	Au	Ag		50%	50%	0%
+16	Pranas	4	3.00E+06	8.80	Au			100%	0%	0%
+17	Castellus	5	6.00E+06	8.95	Al	Si	D	40%	35%	25%
+18	Gorgon	5	1.20E+07	9.10	D	Pb		80%	20%	0%
+19	Parnitha	5	2.50E+07	9.25	Au	Pt		70%	30%	0%
+20	Orisoni	6	5.00E+07	9.40	Pt	D		70%	30%	0%
+21	Theseus	6	1.00E+08	9.55	Pt			100%	0%	0%
+22	Zelene	6	2.00E+08	9.70	Ag	Ti		70%	30%	0%
+23	Han	7	4.00E+08	9.85	Ti	D	Au	70%	20%	10%
+24	Strennus	7	8.00E+08	10.00	Ti	Pt		70%	30%	0%
+25	Osun	7	1.60E+09	10.15	Al	Ir		60%	40%	0%
+26	Ploitari	8	3.20E+09	10.30	Ir	D		50%	50%	0%
+27	Elysta	8	6.40E+09	10.45	Ir			100%	0%	0%
+28	Tikkun	8	1.25E+10	10.60	Ir	Ti	Pd	40%	35%	25%
+29	Satent	9	2.50E+10	10.75	Pd	Ti		60%	40%	0%
+30	Urla Rast	9	5.00E+10	10.90	Pd	D		90%	10%	0%
+31	Vular	9	1.00E+11	11.05	Pd	Os		70%	30%	0%
+32	Nibiru	10	2.50E+11	11.20	Os	Ir		60%	40%	0%
+33	Xena	10	6.00E+11	11.35	Os			100%	0%	0%
+34	Rupert	10	1.50E+12	11.50	Pd	Os	Rh	55%	30%	15%
+35	Pax	11	4.00E+12	11.65	Rh	Pt		50%	50%	0%
+36	Ivyra	11	1.00E+13	11.80	Rh			100%	0%	0%
+37	Utritis	11	2.50E+13	11.95	Rh	In		80%	20%	0%
+38	Dosie	12	6.20E+13	12.10	In	Os		50%	50%	0%
+39	Zulu	12	1.60E+14	12.25	In			100%	0%	0%
+40	Unicae	12	4.00E+14	12.40	In	Qd		80%	20%	0%
+41	Dune	13	1.00E+15	12.55	Os	Qd		60%	40%	0%
+42	Naraka	13	2.50E+15	12.70	Qd			100%	0%	0%
+43	Daedalus	13	6.20E+15	12.85	Qd	In	Sc	60%	25%	15%
+44	Clovis	14	1.50E+16	13.00	Sc	Qd		50%	50%	0%
+45	Zero	14	4.00E+16	13.15	Sc			100%	0%	0%
+46	Sotomi	14	1.00E+17	13.30	Sc	U		75%	25%	0%
+47	Remidian	15	2.50E+17	13.45	U	Qd		60%	40%	0%
+48	Muse	15	6.00E+17	13.60	U			100%	0%	0%
+49	Arabis	15	1.50E+18	13.75	U	Vb		50%	50%	0%
+50	Vesna	16	3.80E+18	13.90	Vb	Sc		60%	40%	0%
+51	Chandra	16	1.00E+19	14.05	Vb			100%	0%	0%
+52	Vega	16	2.50E+19	14.20	Vb	Ae	Rh	70%	20%	10%
+53	Crius	17	6.00E+19	14.35	Ae	Sc		50%	50%	0%
+54	Singhana	17	1.50E+20	14.50	Ae			100%	0%	0%
+55	Zumbia	17	3.60E+20	14.65	Ae	Vb	Vi	70%	20%	10%
+56	Elysium	18	9.00E+20	14.80	Vi	U		60%	40%	0%
+57	Nyota	18	2.60E+21	14.95	Vi			100%	0%	0%
+58	Doral	18	7.50E+21	15.10	Vi	Ae	Xy	40%	40%	20%
+59	Nikara	19	2.10E+22	15.25	Xy	Vb		70%	30%	0%
+60	Limbo	19	5.90E+22	15.40	Xy			100%	0%	0%
+61	Bob	19	1.70E+23	15.55	Xy	Qo		70%	30%	0%
+62	Midas	20	4.60E+23	15.70	Qo	Ae		55%	45%	0%
+63	Antigone	20	1.30E+24	15.85	Qo			100%	0%	0%
+64	Hecate	20	3.90E+24	16.00	Qo	Xy	Lu	50%	25%	25%
+65	Sterop	21	1.10E+25	16.15	Lu	Qo	Vi	60%	20%	20%
+66	Lavinia	21	3.30E+25	16.30	Lu			100%	0%	0%
+67	Ren	21	9.50E+25	16.45	Lu	Qo	Wr	70%	20%	10%
+68	Gorgon	22	2.70E+26	16.60	Wr	Xy		60%	40%	0%
+69	Pontus	22	8.00E+26	16.75	Wr	Lu		80%	20%	0%
+70	Leto	22	2.40E+27	16.90	Wr			100%	0%	0%
+71	Laconia	23	6.92E+27	17.05	Wr	Lu	Aq	40%	40%	20%
+72	Awohali	23	2.08E+28	17.20	Aq	Qo		70%	30%	0%
+73	Pegasi	23	6.23E+28	17.35	Aq			100%	0%	0%
+74	Typhon	24	1.78E+29	17.50	Aq	Op		60%	40%	0%
+75	Surtur	24	5.16E+29	17.65	Op	Wr		70%	30%	0%
+76	Vesta	24	1.81E+30	17.80	Op			100%	0%	0%
